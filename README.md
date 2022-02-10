@@ -1,1 +1,3 @@
 # WaterProgressBar
+
+## How To Use
